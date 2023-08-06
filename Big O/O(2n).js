@@ -7,4 +7,4 @@ function compressBoxesTwice(boxes) {
   });
 }
 
-// O(2n)
+// O(2n) is also mean O(n) when we drop the constants
