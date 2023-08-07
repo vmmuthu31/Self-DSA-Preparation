@@ -8,5 +8,5 @@
 // const array2 = ['z','y','x'];
 // should return true
 
-// 2 parameter inputs
+// 2 parameter- array inputs
 // return true/false
